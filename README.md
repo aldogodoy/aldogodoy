@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m Aldo, a software engineer, who specializes in back-end development.
+- 🔭 I’m currently working on projects that were built in javascript
+- 🌱 I’m currently learning nodejs and api's
